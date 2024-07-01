@@ -1,0 +1,51 @@
+﻿CREATE DATABASE THEPIZZACOMPANY
+GO
+
+USE THEPIZZACOMPANY
+GO
+
+CREATE TABLE ACCOUNT (
+	FirstName NVARCHAR(100) NOT NULL,
+	LastName NVARCHAR(100) NOT NULL,
+	StaffID INT,
+	WorkPlace NVARCHAR(100) NOT NULL,
+	Position NVARCHAR(100),
+
+	UserName NVARCHAR(100) NOT NULL  PRIMARY KEY,
+	PsWord NVARCHAR(100) NOT NULL,
+)
+GO
+
+CREATE TABLE NHANVIEN (
+	StaffID INT PRIMARY KEY,
+	FirstName NVARCHAR(100),
+	LastName NVARCHAR(100),
+	FullName NVARCHAR(100),
+	birthOfDate DATE,
+	Position NVARCHAR(100),
+	StartWorkDay DATE,
+	WorkPlace NVARCHAR(200)
+)
+GO
+
+
+INSERT INTO ACCOUNT (firstName, lastName, staffID, WorkPlace, UserName, psWord)   VALUES 
+(N'Hạ Quang', N'Dũng', 28111, N'TPC Vincom Trần Duy Hưng', N'28111', N'1')
+
+INSERT INTO ACCOUNT VALUES 
+(N'Nguyễn Thị Diệu', N'Minh', 10000, N'TPC Vincom Trần Duy Hưng', N'MANAGE', N'10000', N'1')
+
+
+SELECT position FROM ACCOUNT 
+WHERE UserName = '28111' AND PsWord = '2'
+
+
+SELECT * FROM ACCOUNT
+order by LastName ASC
+
+DELETE FROM ACCOUNT
+where StaffID = '28111'
+
+
+
+select * from NHANVIEN

@@ -1,0 +1,33 @@
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\bin\Debug\The Pizza Company.exe.config
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\bin\Debug\The Pizza Company.exe
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\bin\Debug\The Pizza Company.pdb
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The Pizza Company.csproj.AssemblyReference.cache
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The Pizza Company.csproj.SuggestedBindingRedirects.cache
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The_Pizza_Company.Properties.Resources.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The Pizza Company.csproj.GenerateResource.cache
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The Pizza Company.csproj.CoreCompileInputs.cache
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The Pizza Company.exe
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The Pizza Company.pdb
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The_Pizza_Company.fsignin.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\obj\Debug\The_Pizza_Company.fLogin.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\bin\Debug\The Pizza Company.exe.config
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\bin\Debug\The Pizza Company.exe
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\bin\Debug\The Pizza Company.pdb
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The Pizza Company.csproj.AssemblyReference.cache
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The Pizza Company.csproj.SuggestedBindingRedirects.cache
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.fLogin.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.fsignin.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.Properties.Resources.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The Pizza Company.csproj.GenerateResource.cache
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The Pizza Company.csproj.CoreCompileInputs.cache
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The Pizza Company.exe
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The Pizza Company.pdb
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.fHome_Management.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.Management.fQLNS_QuanLyNhanVien.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.Management.fQLNS_QuanLyChamCong.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.fHome_Staff.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.Staff.fQuanLyBan.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.Staff.fQuanLyHoaDon.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.Staff.fLichLam.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.fAccount_Information.resources
+D:\Documents\63HTTT1\Semester 4\Analysis and design of information systems\The Pizza Company\ThePizzaCompany\obj\Debug\The_Pizza_Company.Management.fQLTK_XemThongTinTK.resources
